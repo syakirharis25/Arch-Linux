@@ -21,6 +21,9 @@ A package manager written specifically for Arch Linux, Pacman, is used to instal
 ## 2. Official references websites.
 Arch Linux official website : https://www.archlinux.org <br />
 
+**_Arch Linux related utility_** <br />
+balenaEtcher : https://www.balena.io/etcher/ <br />
+
 <a name="developers"></a>
 ## 3. Arch Linux developers.
 [ draft ]
