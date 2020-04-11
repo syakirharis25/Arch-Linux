@@ -10,7 +10,7 @@ My works related to Arch Linux, a Linux distribution for computers with x86-64 p
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="arch.png" height="100"> 
+<img src="arch.png" height="150"> 
 Arch Linux is a Linux distribution for computers with x86-64 processors. The Arch Linux repositories contain both libre, and nonfree software, and the default Arch Linux kernel contains nonfree proprietary blobs, hence the distribution is not endorsed by the GNU project.
 <br /><br />
 Arch Linux adheres to five principles: simplicity, modernity, pragmatism, user centrality and versatility. In general, the principles maintain minimal distribution-specific changes, minimal breakage with updates, pragmatic over ideological design choices, user-friendliness, and minimal bloat.
